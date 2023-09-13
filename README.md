@@ -35,3 +35,13 @@ Backend:
 -MySQL
 
 RESPONSIVE/ GitHub
+
+During week 1 Stand-up:
+
+-Gathered credible information for the web application such as links that I am trying to build the web application from.
+
+-Chose which Front-end and back-end software I may be utilizing in order to complete the project.
+
+-Established lead way with instructor on how schedule should be carried out for the project.
+
+-Was introduced to Docker software for creating applications
