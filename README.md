@@ -45,3 +45,18 @@ During week 1 Stand-up:
 -Established lead way with instructor on how schedule should be carried out for the project.
 
 -Was introduced to Docker software for creating applications
+
+Week 1.1 Standup
+
+Phase 1:
+Market research, analyze resources and applications.
+completed by researching information about said project and by choosing the required software that maybe utilized throughout the project.
+Define success criteria by maintaining Trello board and including instructor in all additives.
+Obtain requirements through surveys, focus groups and etc.
+Organize and reorganize the timeline and keep Github update daily
+done daily depending on the needs of the project
+Phase 2:
+Create prototypes based off requirements (ongoing stretch goals)
+begin creating and piecing together code for the website application based off other sites in order to create present project
+Develop frontend to ensure user friendliness
+currently being maintained
