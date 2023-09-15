@@ -60,3 +60,9 @@ Create prototypes based off requirements (ongoing stretch goals)
 begin creating and piecing together code for the website application based off other sites in order to create present project
 Develop frontend to ensure user friendliness
 currently being maintained
+
+Trello Board Link
+A.S.D. LEARNING ZONE
+
+https://trello.com/invite/b/INhtVTox/ATTIa3498a77bb43d3f5aaecec1860805cda3D8CDAB6/asd-learning-zone
+
