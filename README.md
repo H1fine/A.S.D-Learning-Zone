@@ -66,3 +66,27 @@ A.S.D. LEARNING ZONE
 
 https://trello.com/invite/b/INhtVTox/ATTIa3498a77bb43d3f5aaecec1860805cda3D8CDAB6/asd-learning-zone
 
+  Week 2 Standup
+	Phase 3: Began putting together login and signup page 
+	Ran into a few issues with ERR codes when doing npm start
+	Updated npm to npm install -g npm@10.1.0
+	Did npm init and npm start and the update still hadn’t fixed the ERR code
+	After removing the previously updated Node.js and reinstalling the updated version to windows 
+	Downloading dependencies
+	Still didn’t WORK!!!
+	Started over…
+	This time  I started with JWT token
+	Installed React along with Axios in order to make HTTP Request
+	Ensure React had correctly defined scripts to work with entry point file
+
+Week 3 Stand up
+
+-Switched over to React.
+-Was able to successfully create a "Welcome page " initially, but after enter other code the rest welcome page disappeared
+-Shows a different localhost (5501 instead of 5500)
+-Still no luck with Node.js and the npm init -y and npm start ( will continue to debug and try)
+-Currently have two or three seperate codes up and running on vscode will need to connect repos here.
+-In React the .jsx is the only thing halfway working
+
+
+
