@@ -88,5 +88,13 @@ Week 3 Stand up
 -Currently have two or three seperate codes up and running on vscode will need to connect repos here.
 -In React the .jsx is the only thing halfway working
 
+Week 3.1 Standup
+-Updating node.js with the same issues.
+-Figured I would at least get the HTML, and CSS to turned in on time.
+-React has been difficult trying to get the buttons to work.
+-When the code goes live on localhost:5500 nothing shows.
+-Going to work towards trying to get something to show up on the page.
+-I believe I may be missing something minor like a “src” in html .
+
 
 
